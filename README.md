@@ -1,4 +1,4 @@
-# flutter_weather_application in Flutter using Api (http)
+# Flutter_weather_application using Api (http)
 
 A new Flutter project.
 
